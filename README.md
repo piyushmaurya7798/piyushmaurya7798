@@ -4,7 +4,6 @@
 - 👨‍💻 Full-Stack Developer 
 - 📫 How to reach me: [piyushmaurya7798@gmail.com](piyushmaurya7798@gmail.com)
 - ⭐ Star-studded projects like [Real Estate Website]()
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://prasadmhasal.netlify.app)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
