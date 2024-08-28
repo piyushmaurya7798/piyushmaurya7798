@@ -48,5 +48,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushmaurya7798&theme=dark" alt="prasad-mhasal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushmaurya7798&theme=dark" alt="piyush maurya" /></p>
   </div>
